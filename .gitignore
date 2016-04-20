@@ -1,0 +1,8 @@
+.gradle/
+bundles/
+node_modules/
+build_gradle/
+node/.cache/
+.web_bundle*
+.bin/
+build/
